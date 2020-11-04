@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello! 👋
+
+**🔭 I’m currently working on:**
+[fitzpatrick.io](https://fitzpatrick.io) - my professional portfolio and blog
+
+**🌱 I’m currently learning/mastering:**
+.NET Core - mastering **||** React - learning **||** Next.js - enjoying
+
+**⚡ Fun fact:**
+I am the fifth of my name **||** I do not enjoy supporting IE
+
+
 
 <!--
 **jjfitzpatrick/jjfitzpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
